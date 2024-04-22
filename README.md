@@ -1,3 +1,5 @@
+[Excellent Course to learn Docker and Linux ](https://www.youtube.com/watch?v=pTFZFxd4hOI&t=1328s)
+
 - ### opening visual studio Code
       code
 - ### For making a Directory : 
@@ -33,3 +35,11 @@
       pwd
 - ### For clearing all the command history
       clear
+- ### For checking all active processes
+      ps
+- ### To display the name of operating system
+      uname
+- ### To display the network node hostname
+      uname -n
+- ### To display the kernel version
+      uname -v
